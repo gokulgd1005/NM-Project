@@ -50,4 +50,4 @@ Integrating Zscaler with Identity Providers (IdPs) like Azure AD, Okta, and Acti
 ## Conclusion
 
 This project helped us understand the Zero Trust Network Access (ZTNA) model and how Zscaler secures user-to-application connectivity in modern organizations. It also provided practical knowledge about web application vulnerabilities, vulnerability scanning using Nessus, and integrating Zscaler with Identity Providers for secure authentication and authorization.
-3
+
